@@ -25,6 +25,7 @@ public class NumberToWeekdays {
             break;
             case 7: System.out.println("Friday");
             break;
+            default: System.out.println("Entered value SHould be between 1 and 7");
         }
     }
 }
